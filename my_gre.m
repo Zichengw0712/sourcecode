@@ -89,4 +89,4 @@ seq.setDefinition('Name', 'DEMO_gre');
 
 % seq.install('siemens');
 % seq.write(['DEMO_gre_30_apod_p5.seq']);      % Write to pulseq file
-seq.plot('timeRange', [0 3*TR]);
+seq.plot('timeRange', [0 2*TR]);
